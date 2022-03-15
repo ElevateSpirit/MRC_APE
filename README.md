@@ -9,7 +9,7 @@ Please cite our paper and kindly give a star for this repository if you use this
 
 # Prerequisites
 python 3.7  
-pytorch 4.2.1  
+pytorch 1.8.0
 cuda 10.2  
 transformers 2.11.0  
 # Descriptions
