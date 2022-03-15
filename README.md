@@ -1,3 +1,12 @@
+# Introduction
+This repository was used in our paper:  
+  
+**Have my arguments been replied to? Argument Pair Extraction as Machine Reading Comprehension**
+<br>
+Jianzhu Bao, Jingyi Sun, Qinglin Zhu, Ruifeng Xu<sup>\*</sup>. *Proceedings of ACL 2022*
+  
+Please cite our paper and kindly give a star for this repository if you use this code.
+
 # Prerequisites
 python 3.7  
 pytorch 4.2.1  
@@ -5,7 +14,7 @@ cuda 10.2
 transformers 2.11.0  
 # Descriptions
 
-**data_v2** - contains dataset about rr-submission-v2 
+**data_v2** - contains dataset about rr-submission-v2 and rr-passage.
 
 **longformer-base**: put the download Pytorch longformer model here (config.json, pytorch_model.bin, vocab.json,merges.txt) (https://huggingface.co/allenai/longformer-base-4096/tree/main). 
 
