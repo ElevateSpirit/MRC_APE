@@ -32,7 +32,9 @@ transformers 2.11.0
 * ```models.py```: the main model.
 
 # Usage
+```
 python prepare_data.py 
 python to_bioes.py 
 python make_train_samples.py 
 python run.py 
+```
