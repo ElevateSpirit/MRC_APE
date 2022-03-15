@@ -1,0 +1,1 @@
+You can download the datasets at https://github.com/LiyingCheng95/ArgumentPairExtraction/tree/master/data/rr-passage and https://github.com/LiyingCheng95/ArgumentPairExtraction/tree/master/data/RR-submission-v2 

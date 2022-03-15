@@ -1,0 +1,1 @@
+You can download the longformer model at https://huggingface.co/allenai/longformer-base-4096/tree/main
